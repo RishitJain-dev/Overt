@@ -1,7 +1,7 @@
 # Overt
  A custom pair of comfortable over-ear headphones, with a 3D printed frame and TPU core
 
-> Weighs: 347.2g
+> View the assembly here! https://cad.onshape.com/documents/11090fc6df403adae3dbcc27/w/6eb9b5b05646684f75e07379/e/fd502d6e8e3ca44da51d5585?renderMode=0&uiState=6ae39427d6fd5ff8b295f213
 
 I designed this as a project for [Fabricate](https://fabricate.hackclub.com)!
 
