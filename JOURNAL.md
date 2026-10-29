@@ -3,11 +3,10 @@ title: "Overt - Headphones"
 github: "https://github.com/RishitJain-dev/Overt"
 description: " A custom pair of comfortable over-ear headphones, with a 3D printed frame and TPU core"
 created_at: "2026-10-23"
-total_time: "2h 12m"
+total_time: "2h 24m"
 ---
 
 # October 23, 2026: Created the BOM
-<!-- fabricate:entry 1159 -->
 
 Researched the project, how it would work and what I would need, and created the BOM.
 
@@ -19,7 +18,6 @@ Timelapse: https://lapse.hackclub.com/timelapse/BDW3xIVVjQBv
 **Total time spent: 1h**
 
 # October 29, 2026: Designed the 3D Model
-<!-- fabricate:entry 1539 -->
 
 I designed the 3D model, made up of 3 main parts, the 2 ear cuffs and 1 head which contains the electronics and wires and connects the 2 cuffs together. I also imported it into Bambu Studio and exported the 3MF.
 
@@ -31,13 +29,22 @@ Timelapse: https://lapse.hackclub.com/timelapse/C7HmibQ4rseT
 
 **Total time spent: 1h**
 
-# October 29, 2026 (entry 2): Designed schematic in KiCAD
-<!-- fabricate:entry 1541 -->
+# October 29, 2026: Designed schematic in KiCAD
 
 This was pretty simple, as there are only 3 main components. I made this in KiCAD, as it was the only schematic editor that I have installed. I used alternative symbols, which was fine as this will not be a PCB, it is only for reference so that people building the project can do so easily.
 
 ![](https://fabricate.hackclub-assets.com/f5830d6899fa8a11c3bae3e095711ccaeaf8aaf95d095457e84057a3a113d054/image-png/Screenshot%202026-10-29%20175140.png)
 
 Timelapse: https://lapse.hackclub.com/timelapse/Zg9-r3G8a-Ui
+
+**Total time spent: 12m**
+
+# October 29, 2026: Organised Github Repo
+
+I reorganised the Github repo by adding CAD and production folders, with STEP, 3MF and .sch files in them, as well as importing my BOM.csv and writing the README.md
+
+![](https://fabricate.hackclub-assets.com/992b6f8c16b665d4dfe6c3398b85bf41b90f72b7fc2f6beaa77c2dde23676d41/image-png/image.png)
+
+Timelapse: https://lapse.hackclub.com/timelapse/eyVUe7TCMH5V
 
 **Total time spent: 12m**
